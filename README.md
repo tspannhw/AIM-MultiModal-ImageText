@@ -39,7 +39,7 @@ https://medium.com/vector-database/unveiling-milvus-2-4-multi-vector-search-spar
 
 https://zilliz.com/learn/hybrid-search-combining-text-and-image
 
+https://medium.com/@tspann/ranking-for-relevance-with-bm25-b2d9dd62e2f8
 
-
-https://zilliz.com/learn/hybrid-search-combining-text-and-image
+https://github.com/tspannhw/AIM-TravelAdvisories
 
