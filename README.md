@@ -13,3 +13,6 @@ https://milvus.io/docs/multimodal_rag_with_milvus.md
 https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/visual
 
 https://huggingface.co/datasets/JUNJIE99/VISTA_S2
+
+https://github.com/milvus-io/bootcamp/blob/master/bootcamp/RAG/readthedocs_zilliz_langchain.ipynb
+
