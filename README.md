@@ -43,3 +43,5 @@ https://medium.com/@tspann/ranking-for-relevance-with-bm25-b2d9dd62e2f8
 
 https://github.com/tspannhw/AIM-TravelAdvisories
 
+https://github.com/yiwen92/Milvus_hybridsearch/blob/main/multi-modal-demo/demo.ipynb
+
